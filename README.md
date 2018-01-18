@@ -102,7 +102,7 @@ Experienced across JavaScript/TypeScript ecosystems, Python, Ruby on Rails, mode
 
 ### 🖥️ Full Stack
 
-React · Next.js · Node.js  
+React · Next.js · Node.js · Python · Django · FastAPI · Flask · Ruby on Rails 
 NestJS · Express · TypeScript  
 PostgreSQL · MongoDB
 
@@ -129,31 +129,11 @@ GitHub Actions · Jenkins · Terraform
 </td>
 </tr>
 </table>
-
----
-
-## 🌱 Currently Exploring
-
-<div align="center">
-
-![Kubernetes](https://img.shields.io/badge/Advanced-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Platform Engineering](https://img.shields.io/badge/Platform-Engineering-0F172A?style=for-the-badge)
-![AI Apps](https://img.shields.io/badge/AI-Applications-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-Integrations-7C3AED?style=for-the-badge)
-![Cloud Native](https://img.shields.io/badge/Cloud--Native-Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Event Driven](https://img.shields.io/badge/Event--Driven-Systems-F97316?style=for-the-badge)
-
-</div>
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=zeeeahmaad-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeeahmaad-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeeahmaad-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
 

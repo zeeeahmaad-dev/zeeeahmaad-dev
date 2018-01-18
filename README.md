@@ -22,7 +22,7 @@
 
 **Who I am**
 
-Full Stack Software Engineer with **7+ years** of experience building scalable web applications, APIs, cloud-native solutions, and distributed systems.
+Full Stack Software Engineer with **8+ years** of experience building scalable web applications, APIs, cloud-native solutions, and distributed systems.
 
 Experienced across JavaScript/TypeScript ecosystems, Python, Ruby on Rails, modern DevOps practices, and cloud infrastructure.
 
@@ -33,7 +33,7 @@ Experienced across JavaScript/TypeScript ecosystems, Python, Ruby on Rails, mode
 
 | | |
 |:---:|:---|
-| 💼 | 7+ years of professional software development |
+| 💼 | 8+ years of professional software development |
 | 🌍 | Remote & international team experience |
 | ⚡ | Full Stack Development specialist |
 | 🏗️ | Scalable backend architecture |

@@ -8,7 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-zeeeahmaad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeeeahmaad@gmail.com)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Building+Scalable+Web+Apps;Cloud-Native+%26+Distributed+Systems;Mentoring+%26+Clean+Code" alt="Typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Engineer;Building+Scalable+Web+Apps;Cloud-Native+%26+Distributed+Systems;Mentoring+%26+Clean+Code" alt="Typing intro" />
 
 </div>
 
